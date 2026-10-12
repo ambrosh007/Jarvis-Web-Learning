@@ -1,0 +1,12 @@
+body{
+
+    background-color: black;
+    color: white;
+}
+
+.control-panel{
+
+    border: 2px solid white;
+   padding :20px;
+   margin: 20px;
+}
