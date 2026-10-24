@@ -23,3 +23,4 @@ if(powerbackup>=90){
 let emergencyMode = false;
 
 let mode = !emergencyMode ? 'NORMAL MODE' : 'EMERGENCY';
+console.log("System mode is " , mode);
